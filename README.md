@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thinakaran</h1>
 <h3 align="center">A passionate Web & Mobile Applications developer from India</h3>
 
+- 🎓 Currently pursuing Mobile solutions development
+- ❤️ Love to develop **Websites**
 - 📫 How to reach me **thinakarandev@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
